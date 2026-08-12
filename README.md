@@ -1,10 +1,10 @@
 <div align="center">
 
-# Giovanni Kalebe
+# Kalebe Cutrim
 
-**Sócio da Porto Tec Assistência Técnica** · São Paulo, Brasil
+**Desenvolvedor na Porto Tec Assistência Técnica** · São Paulo, Brasil
 
-Construo software para a operação real do meu próprio negócio.<br>
+Construo software para a operação real de uma assistência técnica.<br>
 O que está aqui roda em produção e é usado todos os dias pela equipe.
 
 <br>
@@ -21,9 +21,10 @@ O que está aqui roda em produção e é usado todos os dias pela equipe.
 
 ## Sobre
 
-Assistência técnica autorizada Panasonic. Todo dia sai uma equipe para atender
-clientes espalhados por São Paulo — e cada decisão de rota, peça e prazo tem
-custo real.
+Trabalho como desenvolvedor numa assistência técnica autorizada Panasonic.
+Todo dia sai uma equipe para atender clientes espalhados por São Paulo — e cada
+decisão de rota, peça e prazo tem custo real. É esse o problema que eu resolvo
+em código.
 
 Estudo **Análise e Desenvolvimento de Sistemas** e **Ciências Contábeis**, e sou
 formado em **Marketing**. Essa mistura virou meu jeito de trabalhar: conheço a
@@ -104,7 +105,7 @@ justificada.
 
 ## Contato
 
-[![Email](https://img.shields.io/badge/giovannikalebe690@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannikalebe690@gmail.com)
+[![Email](https://img.shields.io/badge/kalebe130510@icloud.com-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:kalebe130510@icloud.com)
 [![Site](https://img.shields.io/badge/portotecroteiros.com.br-1a6fd4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portotecroteiros.com.br)
 
 <sub>Aberto a oportunidades em desenvolvimento back-end e sistemas para operação.</sub>
