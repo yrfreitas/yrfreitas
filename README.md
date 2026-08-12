@@ -1,58 +1,112 @@
+<div align="center">
+
 # Giovanni Kalebe
 
-Sócio da **Porto Tec Assistência Técnica**, em São Paulo — assistência autorizada
-Panasonic. Construo software para resolver os problemas da própria operação:
-os sistemas que estão aqui rodam em produção e são usados todos os dias pela
-equipe.
+**Sócio da Porto Tec Assistência Técnica** · São Paulo, Brasil
+
+Construo software para a operação real do meu próprio negócio.<br>
+O que está aqui roda em produção e é usado todos os dias pela equipe.
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+</div>
+
+<br>
+
+## Sobre
+
+Assistência técnica autorizada Panasonic. Todo dia sai uma equipe para atender
+clientes espalhados por São Paulo — e cada decisão de rota, peça e prazo tem
+custo real.
 
 Estudo **Análise e Desenvolvimento de Sistemas** e **Ciências Contábeis**, e sou
-formado em Marketing. Essa mistura acabou virando meu jeito de trabalhar: eu
-conheço a operação por dentro, entendo o custo de cada decisão e construo com
-isso em mente.
+formado em **Marketing**. Essa mistura virou meu jeito de trabalhar: conheço a
+operação por dentro, sei o que cada decisão custa, e construo com isso em mente.
 
----
+<br>
 
-### O que estou construindo
+## Projeto em produção
 
-**[Portotec Roteiros](https://github.com/yrfreitas/portote_roteiros)** · Python · Flask · PostgreSQL
+<table>
+<tr>
+<td width="60%" valign="top">
 
-Sistema de roteirização e gestão de atendimentos técnicos, em produção.
+### 🗺️ [Portotec Roteiros](https://github.com/yrfreitas/portote_roteiros)
 
-Um técnico atende de 6 a 10 clientes por dia espalhados pela cidade — a ordem
-das visitas muda a quilometragem, o tempo em trânsito e quantos atendimentos
-cabem no dia. O sistema monta a rota, acompanha a execução em campo e fecha o
-ciclo administrativo depois.
+Roteirização e gestão de atendimentos técnicos.
 
-- Otimização de rota com Nearest Neighbor e refinamento 2-opt
-- PWA instalável, com link individual para cada técnico
-- Notificações push quando uma rota é atribuída
-- Conciliação automática dos atendimentos com a planilha de compras
-- Leitura das peças direto do XML da NF-e recebida por e-mail
+Um técnico atende de 6 a 10 clientes por dia. A ordem das visitas muda a
+quilometragem, o tempo em trânsito e quantos atendimentos cabem no dia.
+O sistema monta a rota, acompanha a execução em campo e fecha o ciclo
+administrativo depois.
 
----
+</td>
+<td width="40%" valign="top">
 
-### Como eu penso sobre software
+**O que tem dentro**
 
-O que me interessa não é a tecnologia mais nova, é a decisão certa para o
-problema. Algumas que tomei nesse projeto:
+`Nearest Neighbor + 2-opt`<br>
+`PWA instalável`<br>
+`Web Push`<br>
+`Google Sheets API`<br>
+`Leitura de XML da NF-e`<br>
+`Geocodificação em cascata`
 
-- O app funciona offline, mas **nunca** entrega dado de rota vindo de cache —
-  mostrar rota velha para quem está na rua é pior que não funcionar
-- O link do técnico não tem senha, porque exigir login de quem está de moto
-  entre um atendimento e outro cria atrito diário para proteger contra um
-  cenário que não é o real
-- Frontend sem framework: seis telas e nenhum estado compartilhado complexo
-  não pagam o custo de build e manutenção
+</td>
+</tr>
+</table>
 
----
+<br>
 
-### Stack
+## Como penso sobre software
 
-`Python` `Flask` `PostgreSQL` `SQLite` `JavaScript` `PWA / Service Workers`
-`Google Sheets API` `Web Push` `IMAP` `Leaflet` `Railway`
+> O que me interessa não é a tecnologia mais nova — é a decisão certa para o
+> problema que está na minha frente.
 
----
+**O app funciona offline, mas nunca serve rota vinda de cache.**
+Mostrar uma rota desatualizada para quem está na rua é pior do que não
+funcionar.
 
-### Contato
+**O link do técnico não tem senha.**
+Exigir login de quem está de moto, entre um atendimento e outro, cria atrito
+diário para proteger contra um cenário que não é o real.
 
-[![Email](https://img.shields.io/badge/email-giovannikalebe690%40gmail.com-informational?style=flat-square)](mailto:giovannikalebe690@gmail.com)
+**Frontend sem framework.**
+Seis telas e nenhum estado compartilhado complexo não pagam o custo de build,
+dependências e manutenção.
+
+**Autenticação num ponto único, não espalhada por rota.**
+Assim uma rota nova nasce protegida por padrão, e a exceção é que precisa ser
+justificada.
+
+<br>
+
+## Stack
+
+<div align="center">
+
+| Backend | Dados | Frontend | Integrações |
+|:---:|:---:|:---:|:---:|
+| Python · Flask | PostgreSQL · SQLite | JavaScript · Leaflet | Google Sheets · Web Push |
+| Gunicorn | Migrações idempotentes | Service Workers | IMAP · NF-e (XML) |
+
+</div>
+
+<br>
+
+<div align="center">
+
+## Contato
+
+[![Email](https://img.shields.io/badge/giovannikalebe690@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannikalebe690@gmail.com)
+[![Site](https://img.shields.io/badge/portotecroteiros.com.br-1a6fd4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portotecroteiros.com.br)
+
+<sub>Aberto a oportunidades em desenvolvimento back-end e sistemas para operação.</sub>
+
+</div>
