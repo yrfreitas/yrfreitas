@@ -26,9 +26,8 @@ Todo dia sai uma equipe para atender clientes espalhados por São Paulo — e ca
 decisão de rota, peça e prazo tem custo real. É esse o problema que eu resolvo
 em código.
 
-Estudo **Análise e Desenvolvimento de Sistemas** e **Ciências Contábeis**, e sou
-formado em **Marketing**. Essa mistura virou meu jeito de trabalhar: conheço a
-operação por dentro, sei o que cada decisão custa, e construo com isso em mente.
+Estudo **Análise e Desenvolvimento de Sistemas** e sou formado em **Marketing**. 
+Essa mistura virou meu jeito de trabalhar: conheço aoperação por dentro, sei o que cada decisão custa, e construo com isso em mente.
 
 <br>
 
