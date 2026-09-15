@@ -27,7 +27,7 @@ decisão de rota, peça e prazo tem custo real. É esse o problema que eu resolv
 em código.
 
 Estudo **Análise e Desenvolvimento de Sistemas** e sou formado em **Marketing**. 
-Essa mistura virou meu jeito de trabalhar: conheço aoperação por dentro, sei o que cada decisão custa, e construo com isso em mente.
+Essa mistura virou meu jeito de trabalhar: conheço a operação por dentro, sei o que cada decisão custa, e construo com isso em mente.
 
 <br>
 
