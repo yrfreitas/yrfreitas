@@ -1,13 +1,40 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=160&color=1A6FD4&section=header&text=Kalebe%20Cutrim&fontSize=42&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&descAlignY=62&descSize=17&desc=Desenvolvedor%20%C2%B7%20Sistemas%20para%20opera%C3%A7%C3%A3o%20real&descColor=E6F0FE)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=900&color=4F8DFB&center=true&vCenter=true&width=700&lines=SYSTEM+BOOTING...;DESENVOLVEDOR+BACKEND;PYTHON+%7C+FLASK+%7C+POSTGRESQL;ESTUDANTE+DE+ADS;SISTEMAS+PARA+OPERA%C3%87%C3%83O+REAL"/>
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=4F8DFB&center=true&vCenter=true&width=700&lines=DESENVOLVEDOR+BACKEND;PYTHON+%2B+FLASK+%2B+POSTGRESQL;ESTUDANTE+DE+ADS;CONSTRUO+O+QUE+RODA+EM+PRODU%C3%87%C3%83O" />
+  <a href="https://portotecroteiros.com.br">
+    <img src="https://avatars.githubusercontent.com/u/256446420?v=4" width="150" style="border-radius:50%;" />
+  </a>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=A8C7FD&center=true&vCenter=true&width=700&lines=Ferramentas+e+Tecnologias%3A;Habilidades+principais%3A;"/>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,flask,postgres,sqlite,js,html,css,git,github&theme=dark" />
   </a>
+</p>
+
+<h3 align="center">
+ 🔗 <b>Conecte-se comigo:</b>
+  <br>
+  <br>
+  <a href="mailto:kalebe130510@icloud.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portotecroteiros.com.br">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="40"/>
+  </a>
+</h3>
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=1A6FD4&section=footer&reversal=false&textBg=false&animation=fadeIn&fontAlignY=40&strokeWidth=0&descSize=0&descAlignY=59&fontSize=66&fontColor=A8C7FD)
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=A8C7FD&center=true&vCenter=true&width=700&lines=Veja+meus+projetos%3A;Acompanhe+minha+jornada%3A;"/>
 </p>
 
 <br>
@@ -91,19 +118,6 @@ justificada.
 | Gunicorn | Migrações idempotentes | Service Workers | IMAP · NF-e (XML) |
 
 </div>
-
-<br>
-
-<h3 align="center">🔗 Contato</h3>
-
-<p align="center">
-  <a href="mailto:kalebe130510@icloud.com">
-    <img src="https://img.shields.io/badge/kalebe130510@icloud.com-3693F3?style=for-the-badge&logo=icloud&logoColor=white" />
-  </a>
-  <a href="https://portotecroteiros.com.br">
-    <img src="https://img.shields.io/badge/portotecroteiros.com.br-1A6FD4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
 
 <p align="center"><sub>Aberto a oportunidades em desenvolvimento back-end e sistemas para operação.</sub></p>
 
