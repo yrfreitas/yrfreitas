@@ -1,21 +1,14 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&height=160&color=1A6FD4&section=header&text=Kalebe%20Cutrim&fontSize=42&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&descAlignY=62&descSize=17&desc=Desenvolvedor%20%C2%B7%20Sistemas%20para%20opera%C3%A7%C3%A3o%20real&descColor=E6F0FE)
 
-# Kalebe Cutrim
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=4F8DFB&center=true&vCenter=true&width=700&lines=DESENVOLVEDOR+BACKEND;PYTHON+%2B+FLASK+%2B+POSTGRESQL;ESTUDANTE+DE+ADS;CONSTRUO+O+QUE+RODA+EM+PRODU%C3%87%C3%83O" />
+</p>
 
-**Desenvolvedor na Porto Tec Assistência Técnica** · São Paulo, Brasil
-
-Construo software para a operação real de uma assistência técnica.<br>
-O que está aqui roda em produção e é usado todos os dias pela equipe.
-
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,flask,postgres,sqlite,js,html,css,git,github&theme=dark" />
+  </a>
+</p>
 
 <br>
 
@@ -26,8 +19,9 @@ Todo dia sai uma equipe para atender clientes espalhados por São Paulo — e ca
 decisão de rota, peça e prazo tem custo real. É esse o problema que eu resolvo
 em código.
 
-Estudo **Análise e Desenvolvimento de Sistemas** e sou formado em **Marketing**. 
-Essa mistura virou meu jeito de trabalhar: conheço a operação por dentro, sei o que cada decisão custa, e construo com isso em mente.
+Estudo **Análise e Desenvolvimento de Sistemas** e sou formado em **Marketing**.
+Essa mistura virou meu jeito de trabalhar: conheço a operação por dentro, sei o
+que cada decisão custa, e construo com isso em mente.
 
 <br>
 
@@ -100,13 +94,17 @@ justificada.
 
 <br>
 
-<div align="center">
+<h3 align="center">🔗 Contato</h3>
 
-## Contato
+<p align="center">
+  <a href="mailto:kalebe130510@icloud.com">
+    <img src="https://img.shields.io/badge/kalebe130510@icloud.com-3693F3?style=for-the-badge&logo=icloud&logoColor=white" />
+  </a>
+  <a href="https://portotecroteiros.com.br">
+    <img src="https://img.shields.io/badge/portotecroteiros.com.br-1A6FD4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
-[![Email](https://img.shields.io/badge/kalebe130510@icloud.com-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:kalebe130510@icloud.com)
-[![Site](https://img.shields.io/badge/portotecroteiros.com.br-1a6fd4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portotecroteiros.com.br)
+<p align="center"><sub>Aberto a oportunidades em desenvolvimento back-end e sistemas para operação.</sub></p>
 
-<sub>Aberto a oportunidades em desenvolvimento back-end e sistemas para operação.</sub>
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=1A6FD4&section=footer)
