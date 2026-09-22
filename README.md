@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2200&pause=900&color=C59AD1&center=true&vCenter=true&width=700&lines=PYTHON;JAVASCRIPT;HTML+%26+CSS;SQL"/>
+</p>
+
+<p align="center">
   <img src="./cartao-terminal.png" width="720" />
 </p>
 
