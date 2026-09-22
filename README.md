@@ -20,8 +20,8 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://portotecroteiros.com.br">
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="40"/>
+  <a href="https://www.linkedin.com/in/kalebe-cutrim-98ba792bb">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
   </a>
 </h3>
 
