@@ -3,12 +3,33 @@
 </p>
 
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=C59AD1&center=true&vCenter=true&width=700&lines=Ferramentas+e+Tecnologias%3A;Habilidades+principais%3A;"/>
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,flask,postgres,sqlite,js,html,css,git,github&theme=dark" />
   </a>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=90&color=0D0D10&section=footer)
+<h3 align="center">
+ 🔗 <b>Conecte-se comigo:</b>
+  <br>
+  <br>
+  <a href="mailto:kalebe130510@icloud.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portotecroteiros.com.br">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="40"/>
+  </a>
+</h3>
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=A64CBF&section=footer&reversal=false&textBg=false&animation=fadeIn&fontAlignY=40&strokeWidth=0&descSize=0&descAlignY=59&fontSize=66&fontColor=EDA8FD)
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=EDD7F4&center=true&vCenter=true&width=700&lines=Veja+meus+projetos%3A;Acompanhe+minha+jornada%3A;"/>
+</p>
 
 <br>
 
@@ -94,4 +115,4 @@ justificada.
 
 <p align="center"><sub>Aberto a oportunidades em desenvolvimento back-end e sistemas para operação.</sub></p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0D0D10&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=A64CBF&section=footer)
