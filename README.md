@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrfreitas&layout=compact&hide_border=true&bg_color=00000000&title_color=C59AD1&text_color=EDD7F4&langs_count=8" />
+  <img src="./top-languages.png" width="380" />
 </p>
 
 <h3 align="center">
