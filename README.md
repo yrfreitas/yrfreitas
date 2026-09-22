@@ -1,15 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=900&color=4F8DFB&center=true&vCenter=true&width=700&lines=SYSTEM+BOOTING...;DESENVOLVEDOR+BACKEND;PYTHON+%7C+FLASK+%7C+POSTGRESQL;ESTUDANTE+DE+ADS;SISTEMAS+PARA+OPERA%C3%87%C3%83O+REAL"/>
-</p>
-
-<p align="center">
-  <a href="https://portotecroteiros.com.br">
-    <img src="https://avatars.githubusercontent.com/u/256446420?v=4" width="150" />
-  </a>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=A8C7FD&center=true&vCenter=true&width=700&lines=Ferramentas+e+Tecnologias%3A;Habilidades+principais%3A;"/>
+  <img src="./cartao-terminal.png" width="720" />
 </p>
 
 <p align="center">
@@ -18,24 +8,7 @@
   </a>
 </p>
 
-<h3 align="center">
- 🔗 <b>Conecte-se comigo:</b>
-  <br>
-  <br>
-  <a href="mailto:kalebe130510@icloud.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://portotecroteiros.com.br">
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="40"/>
-  </a>
-</h3>
-
-![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=1A6FD4&section=footer&reversal=false&textBg=false&animation=fadeIn&fontAlignY=40&strokeWidth=0&descSize=0&descAlignY=59&fontSize=66&fontColor=A8C7FD)
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=A8C7FD&center=true&vCenter=true&width=700&lines=Veja+meus+projetos%3A;Acompanhe+minha+jornada%3A;"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&height=90&color=0D0D10&section=footer)
 
 <br>
 
@@ -121,4 +94,4 @@ justificada.
 
 <p align="center"><sub>Aberto a oportunidades em desenvolvimento back-end e sistemas para operação.</sub></p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=1A6FD4&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0D0D10&section=footer)
