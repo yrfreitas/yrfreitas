@@ -16,10 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="./top-languages.png" width="380" />
-</p>
-
 <h3 align="center">
  🔗 <b>Conecte-se comigo:</b>
   <br>
